@@ -3,4 +3,4 @@
 SnapCut AI is a web-based platform tailored for one-click AI-powered background removal from images. 
 
 
-# [CHECK LIVE DEPLOY]()
+# [CHECK LIVE DEPLOY](https://snapcutai-weld.vercel.app/)
